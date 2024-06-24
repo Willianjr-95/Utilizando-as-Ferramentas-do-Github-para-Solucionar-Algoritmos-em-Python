@@ -1,4 +1,6 @@
-# Algoritimo em python que vai recebe dois dados diferentes e concatena-los em uma única string 
+## Algoritimo em python que vai recebe dois dados diferentes e concatena-los em uma única string 
+
+
 
 ef concatenar_dados(dado1, dado2):
    
